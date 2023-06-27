@@ -1,0 +1,13 @@
+.App {
+  text-align:justify
+}
+.clock{
+  background-color: #282c34;
+  min-height: 20vh;
+  align-items: center;
+  justify-content: center;
+}
+.date{
+  text-align: center;
+  background-color: blueviolet;
+}
